@@ -32,7 +32,8 @@
 
 💾 My Github
 - 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongjeong)](https://github.com/anuraghazra/github-readme-stats)
+<a href="" target="_blank">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongjeong)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a href="" target="_blank">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongjeong)</a>
 <br><br>
  
 💬 How to Contact me
