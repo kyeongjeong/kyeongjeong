@@ -29,7 +29,8 @@
 
 💾 My Github
 - 
-![kyeongjeong's GitHub status](https://github-readme-stats.vercel.app/api?username=kyeongjeong&show_icons=true&theme=dracula)
+![kyeongjeong's GitHub status](https://github-readme-stats.vercel.app/api?username=kyeongjeong&show_icons=true)
+
   
 💬 How to Contact me
 - 
