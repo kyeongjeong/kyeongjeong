@@ -32,7 +32,7 @@
 
 💾 My Github
 - 
-![kyeongjeong's GitHub status](https://github-readme-stats.vercel.app/api?username=kyeongjeong&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongjeong)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
  
 💬 How to Contact me
