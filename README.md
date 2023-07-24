@@ -29,12 +29,6 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a>
 <br><br>
-
-💾 My Github
-- 
-<a href="" target="_blank">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongjeong)](https://github.com/anuraghazra/github-readme-stats)</a>
-<a href="" target="_blank">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongjeong)</a>
-<br><br>
  
 💬 How to Contact me
 - 
@@ -48,6 +42,13 @@
 
 
 <!--
+
+💾 My Github
+- 
+<a href="" target="_blank">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyeongjeong)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a href="" target="_blank">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongjeong)</a>
+<br><br>
+
 **kyeongjeong/kyeongjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
